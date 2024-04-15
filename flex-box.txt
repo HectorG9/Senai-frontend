@@ -6,7 +6,7 @@ center: os itens são alinhados no centro vertical do contêiner.
 baseline: os itens são exibidos na linha de base do contêiner.
 stretch: os itens são esticados para caber no contêiner.
 
-Use justify-contentnovamente para ajudar esses sapos a chegar aos seus nenúfares. Lembre-se que esta propriedade CSS alinha os itens horizontalmente e aceita os seguintes valores:
+Use justify-content novamente para ajudar esses sapos a chegar aos seus nenúfares. Lembre-se que esta propriedade CSS alinha os itens horizontalmente e aceita os seguintes valores:
 
 flex-start: os itens são alinhados ao lado esquerdo do contêiner.
 flex-end: os itens são alinhados ao lado direito do contêiner.
@@ -20,3 +20,9 @@ row: os itens são colocados na mesma direção do texto.
 row-reverse: os itens são colocados na direção oposta à do texto.
 column: Os itens são colocados de cima para baixo.
 column-reverse: Os itens são colocados de baixo para cima.
+
+Às vezes, reverter a ordem das linhas ou colunas de um contêiner não é suficiente. Nestes casos, podemos aplicar a orderpropriedade a itens individuais. Por padrão, os itens têm o valor 0, mas podemos usar esta propriedade para defini-lo também como um valor inteiro positivo ou negativo (-2, -1, 0, 1, 2).
+
+Use a orderpropriedade para reordenar os sapos de acordo com seus nenúfares.
+
+Outra propriedade que você pode aplicar a itens individuais é align-self. Esta propriedade aceita os mesmos valores align-itemse seu valor para o item específico.
