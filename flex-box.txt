@@ -1,0 +1,22 @@
+Agora use align-itemspara ajudar os sapos a chegar ao fundo do lago. Esta propriedade CSS alinha os itens verticalmente e aceita os seguintes valores:
+
+flex-start: os itens são alinhados à parte superior do contêiner.
+flex-end: os itens são alinhados à parte inferior do contêiner.
+center: os itens são alinhados no centro vertical do contêiner.
+baseline: os itens são exibidos na linha de base do contêiner.
+stretch: os itens são esticados para caber no contêiner.
+
+Use justify-contentnovamente para ajudar esses sapos a chegar aos seus nenúfares. Lembre-se que esta propriedade CSS alinha os itens horizontalmente e aceita os seguintes valores:
+
+flex-start: os itens são alinhados ao lado esquerdo do contêiner.
+flex-end: os itens são alinhados ao lado direito do contêiner.
+center: os itens são alinhados no centro do contêiner.
+space-between: Os itens são exibidos com espaçamento igual entre eles.
+space-around: os itens são exibidos com espaçamento igual ao seu redor.
+
+Os sapos precisam ficar na mesma ordem que seus nenúfares usando flex-direction. Esta propriedade CSS define a direção em que os itens são colocados no contêiner e aceita os seguintes valores:
+
+row: os itens são colocados na mesma direção do texto.
+row-reverse: os itens são colocados na direção oposta à do texto.
+column: Os itens são colocados de cima para baixo.
+column-reverse: Os itens são colocados de baixo para cima.
