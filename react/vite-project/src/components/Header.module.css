@@ -1,0 +1,17 @@
+.header{
+    background-color: darkslateblue;
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+    font-size: 2em;
+    font-weight: 600;
+    width: 100%;
+    margin: 0;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
